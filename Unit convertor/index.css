@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body,html{
+  height: 100vh;
+}
+
+.main{
+  position:absolute;
+  background-color:green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ height: 50ox;
+ margin-top: 20%;
+ width: fit-content;
+ margin-left: 35%;
+ border-radius: 4px;
+ }
+
+ .first,.third{
+  padding: 50px;
+ }
+
+ h1{
+ margin-top: 15%;
+ margin-left: 45%;
+ position: absolute;
+ }
+
+ input{
+  height: 25px;
+  border-radius: 4px;
+  border: none
+  ;
+ }
+
